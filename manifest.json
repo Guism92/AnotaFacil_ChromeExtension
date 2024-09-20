@@ -1,0 +1,11 @@
+{
+  "name": "Anota Fácil",
+  "description": "Extensão para registro de anotações",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "AnotaFacil.html",
+    "default_icon": "postar.png"
+  }
+}

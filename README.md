@@ -5,7 +5,7 @@ O sistema é composto por uma caixa de texto feita em CSS  e HTML, que recebe da
 
 ## Diagrama de Caso de uso:
 https://github.com/Guism92/AnotaFacil_ChromeExtension/blob/main/DiagramaCasoUso.drawio
-<img>/imagem_diagramaCasoUso.png</img>
+![DiagramaCasoUso](imagem_diagramaCasoUso.png)
 
 ## Diagrama de Classes:
 https://github.com/Guism92/AnotaFacil_ChromeExtension/blob/main/DiagramaClasses.drawio

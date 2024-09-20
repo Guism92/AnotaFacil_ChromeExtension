@@ -9,5 +9,5 @@ https://github.com/Guism92/AnotaFacil_ChromeExtension/blob/main/DiagramaCasoUso.
 
 ## Diagrama de Classes:
 https://github.com/Guism92/AnotaFacil_ChromeExtension/blob/main/DiagramaClasses.drawio
-![DiagramaCasoUso](imagem_diagramaClasse.png)
+![DiagramaClasses](imagem_diagramaClasses.png)
 

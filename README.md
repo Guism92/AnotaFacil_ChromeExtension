@@ -22,7 +22,7 @@ document.getElementById('salvarNota').addEventListener('click', function() {
         alert('Anotação sem conteúdo. Por favor, faça uma anotação para que ela seja salva!');
     }
 });
-´´´
+~~~
 
 ## Diagrama de Caso de uso:
 https://github.com/Guism92/AnotaFacil_ChromeExtension/blob/main/DiagramaCasoUso.drawio

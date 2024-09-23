@@ -5,7 +5,7 @@ O sistema é composto por uma caixa de texto feita em CSS  e HTML, que recebe da
 
 A essência do código está na ação de gravar e incluir na lista, conforme abaixo:
 
-´´´
+~~~javascript
 document.getElementById('salvarNota').addEventListener('click', function() {
     const notaInput = document.getElementById('notaInput');
     const notaTexto = notaInput.value.trim();
@@ -23,6 +23,7 @@ document.getElementById('salvarNota').addEventListener('click', function() {
     }
 });
 ~~~
+
 
 ## Diagrama de Caso de uso:
 https://github.com/Guism92/AnotaFacil_ChromeExtension/blob/main/DiagramaCasoUso.drawio
